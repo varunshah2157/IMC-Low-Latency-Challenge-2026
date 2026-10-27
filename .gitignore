@@ -1,0 +1,35 @@
+# Compiled binaries and objects
+*.o
+*.obj
+*.out
+a.out
+run
+run.exe
+bench
+bench.exe
+sim_test
+sim_run
+*.exe
+*.pdb
+*.ilk
+
+# Never ignore source files
+!*.cpp
+!*.hpp
+!*.h
+!*.c
+!*.sh
+
+# Compressed archives
+*.zip
+*.tar.gz
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
